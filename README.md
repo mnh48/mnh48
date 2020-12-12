@@ -30,7 +30,7 @@ More at my [translation tracker](https://tl.mnh48.moe) website.
 
 #### Current source of income
 
-I'm currently __unemployed__, see [this page](https://git.mnh48.moe/job.html) if you want to hire me or to read the reasons behind unemployment.
+I'm currently __unemployed__, see [this page](https://git.mnh48.moe/job) if you want to hire me or to read the reasons behind unemployment.
 
 For short-term support, you can tip in some money through:
 

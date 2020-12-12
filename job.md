@@ -1,5 +1,6 @@
 ---
 title: Job
+redirect_from: "/job.html"
 ---
 
 ### Current source of income
