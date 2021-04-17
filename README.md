@@ -1,14 +1,18 @@
-### Hello, I'm Yaya MNH48 🙋🏻
+### Hello, I'm Yaya MNH48 🙋🏻‍♀️
 
 ![github profile header image](https://raw.githubusercontent.com/mnh48/mnh48/master/img/profile-header.png)
 I'm Yaya MNH48, a Malay language translator who code in my free time. My motto is “embrace the modern world while retaining the Malay culture”.
 
+
 #### Major Malay translation project
 
-[![Minetest](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Minetest&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fminetest%2Fminetest%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://github.com/minetest/minetest) ∷ [![Liberapay](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Liberapay&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fliberapay%2Fcore%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://github.com/liberapay/liberapay.com) ∷ [![Kaidan](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Kaidan&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fkaidan%2Ftranslations%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://invent.kde.org/kde/kaidan)
+[![Minetest Engine](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Minetest%20Engine&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fminetest%2Fminetest%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://github.com/minetest/minetest) ∷ [![Liberapay Core](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Liberapay%20Core&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fliberapay%2Fcore%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://github.com/liberapay/liberapay.com) ∷ [![Kaidan](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Kaidan&query=translated_percent&suffix=%25&url=https%3A%2F%2Fhosted.weblate.org%2Fapi%2Ftranslations%2Fkaidan%2Ftranslations%2Fms%2F%3Fformat%3Djson&style=flat-square)](https://invent.kde.org/network/kaidan) ∷ [![Sekai Viewer](https://img.shields.io/endpoint?url=https://cdn.mnh48.moe/status/transifex?name=rumi-SekaiViewer&style=flat-square)](https://github.com/Sekai-World/sekai-viewer)
 
 More at my [translation tracker](https://tl.mnh48.moe) website.
 
+
+<details>
+<summary> 👩‍💻 What am I doing</summary>
 
 #### Technical projects I'm working on
 
@@ -27,6 +31,10 @@ More at my [translation tracker](https://tl.mnh48.moe) website.
 - Third-party Xubuntu server running private media server
 - My own Debian VPS running PHP files and testing Wordpress plugins among others
 
+</details>
+
+<details>
+<summary> 💸 Income and Spending</summary>
 
 #### Current source of income
 
@@ -41,11 +49,13 @@ For short-term support, you can tip in some money through:
 
 Most of my money goes to paying for my room rental, which is where I'm staying in to live.
 
-![Room rental](https://img.shields.io/badge/Room%20rental-350%20MYR%2Fmonth-red?style=flat-square) ∷ ![Utility bills](https://img.shields.io/badge/Utility%20bills-50%20MYR%2Fmonth-red?style=flat-square) ∷ ![Internet access](https://img.shields.io/badge/Internet%20access-100%20MYR%2Fmonth-red?style=flat-square) ∷ ![Food](https://img.shields.io/badge/Food-whichever%20money%20left-red?style=flat-square)
+![Room rental](https://img.shields.io/badge/Room%20rental-350%20MYR%2Fmonth-red?style=flat-square) ∷ ![Utility bills](https://img.shields.io/badge/Utility%20bills-100%20MYR%2Fmonth-red?style=flat-square) ∷ ![Internet access](https://img.shields.io/badge/Internet%20access-100%20MYR%2Fmonth-red?style=flat-square) ∷ ![Food](https://img.shields.io/badge/Food-whichever%20money%20left-red?style=flat-square)
+
+</details>
 
 #### Contact
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40mnh48com-brightgreen?logo=Twitter&style=flat-square)](https://twitter.com/mnh48com) ∷ [![YouTube](https://img.shields.io/badge/YouTube-Yaya%20Channel-brightgreen?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCDTVO-RvDJnxR9bOWeqykDQ) ∷ [![Discord](https://img.shields.io/badge/Discord-The%20MNH48%20Discord-brightgreen?logo=Discord&style=flat-square)](https://discord.gg/xsZQyGf)
+[![Twitter](https://img.shields.io/badge/Twitter-%40yayamnh48-brightgreen?logo=Twitter&style=flat-square)](https://twitter.com/yayamnh48) ∷ [![YouTube](https://img.shields.io/badge/YouTube-Yaya%20Channel-brightgreen?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCDTVO-RvDJnxR9bOWeqykDQ) ∷ [![Discord](https://img.shields.io/badge/Discord-The%20MNH48%20Discord-brightgreen?logo=Discord&style=flat-square)](https://discord.gg/xsZQyGf)
 [![Email](https://img.shields.io/badge/E--mail-admin%40mnh48.moe-brightgreen?logo=Gmail&style=flat-square)](mailto:admin@mnh48.moe)
 
 <!--
