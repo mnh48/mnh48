@@ -55,8 +55,7 @@ Most of my money goes to paying for my room rental, which is where I'm staying i
 
 #### Contact
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40yayamnh48-brightgreen?logo=Twitter&style=flat-square)](https://twitter.com/yayamnh48) ∷ [![YouTube](https://img.shields.io/badge/YouTube-Yaya%20Channel-brightgreen?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCDTVO-RvDJnxR9bOWeqykDQ) ∷ [![Discord](https://img.shields.io/badge/Discord-The%20MNH48%20Discord-brightgreen?logo=Discord&style=flat-square)](https://discord.gg/xsZQyGf)
-[![Email](https://img.shields.io/badge/E--mail-admin%40mnh48.moe-brightgreen?logo=Gmail&style=flat-square)](mailto:admin@mnh48.moe)
+[![Twitter](https://img.shields.io/badge/Twitter-%40yayamnh48-brightgreen?logo=Twitter&style=flat-square)](https://twitter.com/yayamnh48) ∷ [![YouTube](https://img.shields.io/badge/YouTube-Yaya%20Channel-brightgreen?logo=YouTube&style=flat-square)](https://www.youtube.com/channel/UCDTVO-RvDJnxR9bOWeqykDQ) ∷ [![Discord](https://img.shields.io/badge/Discord-The%20MNH48%20Discord-brightgreen?logo=Discord&style=flat-square)](https://discord.gg/xsZQyGf) ∷ [![Email](https://img.shields.io/badge/E--mail-yaya%40mnh48.moe-brightgreen?logo=Gmail&style=flat-square)](mailto:yaya@mnh48.moe)
 
 <!--
 **mnh48/mnh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

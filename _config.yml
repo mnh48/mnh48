@@ -1,19 +1,19 @@
-theme:            jekyll-theme-midnight
-highlighter:      rouge
-permalink:        pretty
-title:            MNH48 Profile
-tagline:          'MNH48 Profile'
-description:      'MNH48 Profile'
-url:              https://git.mnh48.moe
-baseurl:          /
-paginate:         5
+theme:       jekyll-theme-midnight
+highlighter: rouge
+permalink:   pretty
+title:       MNH48 Profile
+tagline:     'MNH48 Profile'
+description: 'MNH48 Profile'
+url:         https://git.mnh48.moe
+baseurl:     /
+paginate:    5
 
 author:
-  name:           'Yaya MNH48'
-  url:            https://twitter.com/mnh48com
+  name:      'Yaya MNH48'
+  url:       https://twitter.com/yayamnh48
 
 github:
-  repo:           https://github.com/mnh48/mnh48
+  repo:      https://github.com/mnh48/mnh48
 
 plugins:
   - jekyll-redirect-from
